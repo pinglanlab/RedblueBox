@@ -80,3 +80,6 @@ git clone https://github.com/pinglanlab/RedblueBox.git
 cd RedblueBox
 pip install -r requirements.txt
 python main.py
+
+### 加入社区
+<img width="396" height="396" alt="凭阑实验室开源社区加入群聊二维码" src="https://github.com/user-attachments/assets/f0486b0d-e9a0-438e-a7d7-03e7191658c0" />
